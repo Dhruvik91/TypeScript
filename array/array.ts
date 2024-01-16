@@ -12,4 +12,4 @@ array2.push("6");
 console.log("The second array", array2)
 
 
-const arr : string[] = ["ravi"]; // this is pre defined array, where we can just add the specific values
+const arr : string[] = ["ravi"]; // this is pre defined array, where we can just add the specific values and cant add any other
